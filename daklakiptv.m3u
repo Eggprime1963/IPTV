@@ -470,10 +470,7 @@ https://bkm.beetv.kz/btv/live/hls/000002943.m3u8
 
 
 #EXTINF:-1 tvg-id="animaxhd" group-title="Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/196.png", Animax HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b1a073dbd8272b0c99940db624ce8d74:9fec26ff4c6774a8bde881e5cb0fe82e
-https://hk4-edge31-1.edgeware.tvb.com/session/abd90c20-c803-11ef-8dde-0050569dc1e1/__cl/slocalr43/__c/ott_CANI_hevc/__op/cenc_m/__f/index.mpd
+https://otaku4-12.lolfile.xyz/indihome130/animax/chunklist_w1817453423_b644100_sleng.m3u8
 #EXTINF:-1 tvg-id="aniplushd" group-title="Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/196.png", Aniplus
 https://otaku3-12.lolfile.xyz/denslokal/h/h201/02.m3u8
 #EXTINF:-1 tvg-id="boomerang" group-title="Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/197.png", Cartoonito HD
